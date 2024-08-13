@@ -1,0 +1,1 @@
+https://github.com/VDOO-Connected-Trust/ghidra-pyi-generator/releases/download/v11.1.2.1.0.4/ghidra_stubs-11.1.2.1.0.4-py2.py3-none-any.whl
